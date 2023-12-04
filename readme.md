@@ -1,14 +1,3 @@
----
-jupyter:
-  language_info:
-    name: python
-  nbformat: 4
-  nbformat_minor: 2
----
-
-::: {.cell .markdown}
-`<span style="color: red;">`{=html}Project Discontinuation: Twitter API
-Changes`</span>`{=html}
 
 > **Important Update**: Due to significant policy changes on pricing
 > following Twitter\'s acquisition, we no longer have access to the new
